@@ -39,13 +39,21 @@ lang: pt
 
 * Predizer o produto interno bruto per capita (**PIB**) dos 26 estados do Brasil 
 
+<br />
+
+* Modelo Estatístico Clássico vs Modelos de Machine Learning
+:::
+
+## Introdução {background-image="imgs/states.jpg" background-opacity=0.1}
+
+
 * Covariáveis utilizadas nos modelos finais:
  * **Pobreza**: Que fornece a taxa de extrema pobreza no ano;
  * **Densidade Demográfica**: Informa a densidade demográfica de cada estado no ano de;
  * **Área** : Refere-se a área em km de cada estado no ano de;
  * **Índice de Desenvolvimento Humano Educacional** (IDHe) : Refere-se ao IDH educacional no de ano de 2017
- 
-:::
+
+
 
 ::: footer
 Dados Disponíveis no IBGE
