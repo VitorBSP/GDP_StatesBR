@@ -49,7 +49,7 @@ lang: pt
 
 * Covariáveis utilizadas nos modelos finais:
  * **Pobreza**: Que fornece a taxa de extrema pobreza no ano;
- * **Densidade Demográfica**: Informa a densidade demográfica de cada estado no ano de;
+ * **População Total**: Informa o total populacional de cada estado;
  * **Área** : Refere-se a área em km de cada estado no ano de;
  * **Índice de Desenvolvimento Humano Educacional** (IDHe) : Refere-se ao IDH educacional no de ano de 2017
 
@@ -67,7 +67,7 @@ Dados Disponíveis no IBGE
 
 * A escolha das covariáveis foram para conter três eixos:
 
- * **População e Geográfia do Estado**: Área e Densidade Demográfica;
+ * **População e Geográfia do Estado**: Área e População total;
  * **Condição de Vida**: Pobreza;
  * **Educação** : IDHe.
 
@@ -149,7 +149,7 @@ base.iloc[0:27,:].describe()
 
 ## Seleção de Covariáveis {background-image="imgs/states.jpg" background-opacity=0.1}
 ```{python}
-sns.heatmap(base.iloc[0:27, 0:8].corr(), annot=True,cmap='RdYlBu');
+sns.heatmap(base.iloc[0:27, :].corr(), annot=True,cmap='RdYlBu');
 ```
 
 
