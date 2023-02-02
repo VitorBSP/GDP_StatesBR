@@ -1,5 +1,5 @@
 ---
-title: "PIB per capita dos Estados Brasileiros no ano de 2019"
+title: "Predição do PIB per capita dos Estados Brasileiros"
 author: "<br> Alisson Rosa <br> João Inácio <br> Bernardo Silveira"
 title-slide-attributes:
   data-background-image: imgs/brasil.jpg
