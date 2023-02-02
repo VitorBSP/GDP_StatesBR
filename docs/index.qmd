@@ -196,5 +196,7 @@ sns.heatmap(base.iloc[0:27, 0:8].corr(), annot=True,cmap='RdYlBu');
 
 
 
+## Modelos - Métricas de Decisão {background-image="imgs/states.jpg" background-opacity=0.1}
 
+![](imgs/metrics.png){.absolute  left=10 width="960" height="340"}
 
