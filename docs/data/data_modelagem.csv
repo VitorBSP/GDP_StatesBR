@@ -1,0 +1,82 @@
+,territorialidade,renda_per_capita_,%_de_extremamente_pobres_,população_total_,idhm_educação_,idhm_longevidade_,idhm_ajustado_à_desigualdade_,Region,Area,State
+0,Acre,509.57,13.28,865422.0,0.728,0.83,0.533,North,164123.738,Acre
+1,Alagoas,419.89,13.14,3330079.0,0.643,0.793,0.5,Northeast,27843.295,Alagoas
+2,Amapá,501.53,5.23,837575.0,0.728,0.828,0.567,North,142470.762,Amapá
+3,Amazonas,479.55,11.74,3983005.0,0.735,0.792,0.549,North,1559168.117,Amazonas
+4,Bahia,526.67,10.38,14853512.0,0.672,0.818,0.529,Northeast,564722.611,Bahia
+5,Ceará,540.61,9.45,9129378.0,0.74,0.823,0.553,Northeast,148894.757,Ceará
+6,Distrito Federal,1498.74,1.4,3012718.0,0.842,0.896,0.691,Center-west,5760.783,Distrito Federal
+7,Espírito Santo,833.57,2.73,4014926.0,0.741,0.902,0.634,Southeast,46074.444,Espírito Santo
+8,Goiás,749.17,3.02,7020504.0,0.77,0.827,0.624,Center-west,340125.715,Goiás
+9,Maranhão,366.24,17.31,7040610.0,0.704,0.773,0.504,Northeast,329642.17,Maranhão
+10,Mato Grosso do Sul,860.55,1.96,2709334.0,0.731,0.854,0.63,Center-west,357145.535,Mato Grosso do Sul
+11,Mato Grosso,791.12,2.26,3430698.0,0.771,0.832,0.634,Center-west,903206.997,Mato Grosso
+12,Minas Gerais,771.16,3.11,21158152.0,0.77,0.883,0.644,Southeast,586521.121,Minas Gerais
+13,Paraíba,523.09,10.76,3996784.0,0.66,0.816,0.517,Northeast,56467.239,Paraíba
+14,Paraná,926.61,2.37,11420565.0,0.779,0.882,0.661,South,199305.236,Paraná
+15,Pará,458.68,9.6,8561098.0,0.677,0.793,0.537,North,1245759.305,Pará
+16,Pernambuco,549.29,10.77,9499409.0,0.718,0.831,0.545,Northeast,98068.021,Pernambuco
+17,Piauí,478.02,10.86,3272447.0,0.692,0.775,0.512,Northeast,251616.823,Piauí
+18,Rio de Janeiro,1044.95,3.52,17264410.0,0.78,0.867,0.643,Southeast,43750.423,Rio de Janeiro
+19,Rio Grande do Norte,595.13,8.69,3506853.0,0.689,0.855,0.552,Northeast,52809.602,Rio Grande do Norte
+20,Rio Grande do Sul,1047.74,1.98,11358646.0,0.735,0.893,0.668,South,281707.151,Rio Grande do Sul
+21,Rondônia,644.99,3.28,1766689.0,0.707,0.781,0.578,North,237765.233,Rondônia
+22,Roraima,607.23,8.62,539741.0,0.767,0.788,0.564,North,224273.831,Roraima
+23,Santa Catarina,1000.82,1.3,7153029.0,0.794,0.916,0.705,South,95730.921,Santa Catarina
+24,São Paulo,1096.85,2.09,45912673.0,0.849,0.898,0.696,Southeast,248219.481,São Paulo
+25,Sergipe,556.32,9.43,2298549.0,0.639,0.805,0.514,Northeast,21926.908,Sergipe
+26,Tocantins,598.77,6.72,1559657.0,0.747,0.818,0.566,North,277720.404,Tocantins
+27,Acre,512.47,8.05,877688.0,0.753,0.825,0.564,North,164123.738,Acre
+28,Alagoas,443.65,9.36,3344244.0,0.66,0.786,0.517,Northeast,27843.295,Alagoas
+29,Amapá,494.32,6.99,853412.0,0.701,0.815,0.559,North,142470.762,Amapá
+30,Amazonas,478.39,9.44,4043664.0,0.748,0.783,0.56,North,1559168.117,Amazonas
+31,Bahia,547.09,7.57,14911031.0,0.69,0.811,0.549,Northeast,564722.611,Bahia
+32,Ceará,565.81,6.8,9184372.0,0.766,0.822,0.571,Northeast,148894.757,Ceará
+33,Distrito Federal,1377.92,2.39,3052546.0,0.825,0.836,0.661,Center-west,5760.783,Distrito Federal
+34,Espírito Santo,764.29,3.34,4060258.0,0.758,0.895,0.641,Southeast,46074.444,Espírito Santo
+35,Goiás,713.76,2.45,7115738.0,0.79,0.763,0.617,Center-west,340125.715,Goiás
+36,Maranhão,382.11,11.09,7079788.0,0.726,0.758,0.53,Northeast,329642.17,Maranhão
+37,Mato Grosso do Sul,821.8,1.98,2739021.0,0.747,0.789,0.614,Center-west,357145.535,Mato Grosso do Sul
+38,Mato Grosso,777.37,2.4,3471779.0,0.765,0.769,0.614,Center-west,903206.997,Mato Grosso
+39,Minas Gerais,745.24,2.62,21281949.0,0.767,0.878,0.65,Southeast,586521.121,Minas Gerais
+40,Paraíba,497.15,6.66,4017764.0,0.673,0.816,0.543,Northeast,56467.239,Paraíba
+41,Paraná,854.53,3.1,11503448.0,0.791,0.82,0.642,South,199305.236,Paraná
+42,Pará,498.33,5.27,8648682.0,0.713,0.784,0.567,North,1245759.305,Pará
+43,Pernambuco,509.32,9.12,9558567.0,0.729,0.831,0.562,Northeast,98068.021,Pernambuco
+44,Piauí,482.64,6.55,3280697.0,0.7,0.768,0.537,Northeast,251616.823,Piauí
+45,Rio de Janeiro,961.32,4.44,17365648.0,0.781,0.804,0.623,Southeast,43750.423,Rio de Janeiro
+46,Rio Grande do Norte,603.61,3.75,3534165.0,0.71,0.855,0.583,Northeast,52809.602,Rio Grande do Norte
+47,Rio Grande do Sul,990.06,1.92,11404423.0,0.739,0.831,0.651,South,281707.151,Rio Grande do Sul
+48,Rondônia,640.9,3.85,1785821.0,0.743,0.77,0.598,North,237765.233,Rondônia
+49,Roraima,548.93,6.62,562620.0,0.759,0.783,0.568,North,224273.831,Roraima
+50,Santa Catarina,925.29,1.65,7240674.0,0.79,0.858,0.685,South,95730.921,Santa Catarina
+51,São Paulo,1032.89,2.55,46282864.0,0.847,0.844,0.674,Southeast,248219.481,São Paulo
+52,Sergipe,574.03,5.35,2318678.0,0.682,0.803,0.551,Northeast,21926.908,Sergipe
+53,Tocantins,588.48,3.33,1576912.0,0.763,0.817,0.589,North,277720.404,Tocantins
+54,Acre,471.54,12.94,889829.0,0.692,0.788,0.521,North,164123.738,Acre
+55,Alagoas,404.28,11.89,3358030.0,0.679,0.748,0.505,Northeast,27843.295,Alagoas
+56,Amapá,451.27,7.28,869050.0,0.647,0.778,0.523,North,142470.762,Amapá
+57,Amazonas,432.99,11.17,4103520.0,0.72,0.744,0.532,North,1559168.117,Amazonas
+58,Bahia,451.59,12.82,14965636.0,0.659,0.772,0.507,Northeast,564722.611,Bahia
+59,Ceará,480.55,11.72,9237820.0,0.766,0.784,0.543,Northeast,148894.757,Ceará
+60,Distrito Federal,1326.87,3.42,3091667.0,0.817,0.803,0.637,Center-west,5760.783,Distrito Federal
+61,Espírito Santo,684.63,5.48,4104647.0,0.742,0.864,0.611,Southeast,46074.444,Espírito Santo
+62,Goiás,679.62,3.17,7208837.0,0.778,0.721,0.591,Center-west,340125.715,Goiás
+63,Maranhão,341.32,16.91,7118214.0,0.716,0.715,0.493,Northeast,329642.17,Maranhão
+64,Mato Grosso do Sul,767.68,3.28,2768103.0,0.741,0.751,0.595,Center-west,357145.535,Mato Grosso do Sul
+65,Mato Grosso,707.48,2.48,3512138.0,0.758,0.73,0.588,Center-west,903206.997,Mato Grosso
+66,Minas Gerais,699.24,4.04,21401130.0,0.762,0.846,0.625,Southeast,586521.121,Minas Gerais
+67,Paraíba,465.74,12.95,4038225.0,0.669,0.779,0.514,Northeast,56467.239,Paraíba
+68,Paraná,817.79,3.0,11584089.0,0.78,0.785,0.628,South,199305.236,Paraná
+69,Pará,442.82,11.02,8734772.0,0.686,0.744,0.527,North,1245759.305,Pará
+70,Pernambuco,447.97,14.58,9616357.0,0.721,0.797,0.53,Northeast,98068.021,Pernambuco
+71,Piauí,452.75,11.3,3288504.0,0.698,0.726,0.509,Northeast,251616.823,Piauí
+72,Rio de Janeiro,901.42,6.33,17462801.0,0.758,0.769,0.592,Southeast,43750.423,Rio de Janeiro
+73,Rio Grande do Norte,593.46,9.32,3560903.0,0.68,0.819,0.537,Northeast,52809.602,Rio Grande do Norte
+74,Rio Grande do Sul,944.53,2.22,11448117.0,0.75,0.797,0.642,South,281707.151,Rio Grande do Sul
+75,Rondônia,541.74,6.56,1804543.0,0.694,0.731,0.547,North,237765.233,Rondônia
+76,Roraima,549.54,7.8,582002.0,0.673,0.745,0.519,North,224273.831,Roraima
+77,Santa Catarina,901.2,1.94,7326578.0,0.79,0.827,0.67,South,95730.921,Santa Catarina
+78,São Paulo,971.82,3.59,46642575.0,0.839,0.81,0.654,Southeast,248219.481,São Paulo
+79,Sergipe,492.78,10.86,2338333.0,0.684,0.764,0.522,Northeast,21926.908,Sergipe
+80,Tocantins,564.61,5.75,1593903.0,0.732,0.779,0.568,North,277720.404,Tocantins
